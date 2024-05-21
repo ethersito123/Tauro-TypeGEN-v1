@@ -1,50 +1,43 @@
-# Meta Llama 3 Acceptable Use Policy
+# Acceptable Use Policy (AUP) for Tauro Large Language Model (Tauro LLM)
 
-Meta is committed to promoting safe and fair use of its tools and features, including Llama 3. If you access or use Llama 3, you agree to this Acceptable Use Policy (“Policy”). The most recent copy of this policy can be found at [ai.meta.com/llama/use-policy](http://ai.meta.com/llama/use-policy).
+This Acceptable Use Policy ("Policy") outlines the acceptable and prohibited uses of the Tauro Large Language Model ("Tauro LLM"). By using Tauro LLM, you agree to comply with this Policy.
 
-## Prohibited Uses
-We want everyone to use Llama 3 safely and responsibly. You agree you will not use, or allow others to use, Llama 3 to: 
+ ## Acceptable Use
 
-1. Violate the law or others’ rights, including to:
-    1. Engage in, promote, generate, contribute to, encourage, plan, incite, or further illegal or unlawful activity or content, such as: 
-        1. Violence or terrorism 
-        2. Exploitation or harm to children, including the solicitation, creation, acquisition, or dissemination of child exploitative content or failure to report Child Sexual Abuse Material
-        3. Human trafficking, exploitation, and sexual violence
-        4. The illegal distribution of information or materials to minors, including obscene materials, or failure to employ legally required age-gating in connection with such information or materials.
-        5. Sexual solicitation
-        6. Any other criminal activity
-    2. Engage in, promote, incite, or facilitate the harassment, abuse, threatening, or bullying of individuals or groups of individuals
-    3. Engage in, promote, incite, or facilitate discrimination or other unlawful or harmful conduct in the provision of employment, employment benefits, credit, housing, other economic benefits, or other essential goods and services
-    4. Engage in the unauthorized or unlicensed practice of any profession including, but not limited to, financial, legal, medical/health, or related professional practices 
-    5. Collect, process, disclose, generate, or infer health, demographic, or other sensitive personal or private information about individuals without rights and consents required by applicable laws
-    6. Engage in or facilitate any action or generate any content that infringes, misappropriates, or otherwise violates any third-party rights, including the outputs or results of any products or services using the Llama 3 Materials
-    7. Create, generate, or facilitate the creation of malicious code, malware, computer viruses or do anything else that could disable, overburden, interfere with or impair the proper working, integrity, operation or appearance of a website or computer system 
+Personal and Non-Commercial Use: Tauro LLM is intended for personal and non-commercial use only. Commercial use or any use that generates revenue directly or indirectly is prohibited without prior written consent.
 
+Compliance with Laws: Users must comply with all applicable laws, regulations, and policies when using Tauro LLM. This includes but is not limited to laws related to data protection, intellectual property rights, and privacy.
 
+Respect for Others: Users must not use Tauro LLM to engage in activities that are illegal, harmful, or infringe upon the rights of others. This includes but is not limited to harassment, discrimination, defamation, and unauthorized access to data or systems.
 
-2. Engage in, promote, incite, facilitate, or assist in the planning or development of activities that present a risk of death or bodily harm to individuals, including use of Llama 3 related to the following:
-    1. Military, warfare, nuclear industries or applications, espionage, use for materials or activities that are subject to the International Traffic Arms Regulations (ITAR) maintained by the United States Department of State
-    2. Guns and illegal weapons (including weapon development)
-    3. Illegal drugs and regulated/controlled substances
-    4. Operation of critical infrastructure, transportation technologies, or heavy machinery
-    5. Self-harm or harm to others, including suicide, cutting, and eating disorders
-    6. Any content intended to incite or promote violence, abuse, or any infliction of bodily harm to an individual
+Ethical Use: Users must use Tauro LLM ethically and responsibly. Avoid generating or promoting content that is misleading, deceptive, or promotes illegal activities.
 
+Attribution: When using Tauro LLM to generate content, users must provide proper attribution if required by applicable copyright or licensing laws.
 
+## Prohibited Use
 
-3. Intentionally deceive or mislead others, including use of Llama 3 related to the following:
-    1. Generating, promoting, or furthering fraud or the creation or promotion of disinformation
-    2. Generating, promoting, or furthering defamatory content, including the creation of defamatory statements, images, or other content
-    3. Generating, promoting, or further distributing spam
-    4. Impersonating another individual without consent, authorization, or legal right
-    5. Representing that the use of Llama 3 or outputs are human-generated
-    6. Generating or facilitating false online engagement, including fake reviews and other means of fake online engagement 
-4. Fail to appropriately disclose to end users any known dangers of your AI system 
+Illegal Activities: Tauro LLM must not be used for any activities that are illegal under local, national, or international laws.
 
-Please report any violation of this Policy, software “bug,” or other problems that could lead to a violation of this Policy through one of the following means:
+Malicious Activities: Users must not use Tauro LLM to engage in any form of hacking, phishing, malware distribution, or other malicious activities.
 
-* Reporting issues with the model: [github.com/facebookresearch/llama](http://github.com/facebookresearch/llama)
-* Reporting risky content generated by the model: [developers.facebook.com/llama_output_feedback](http://developers.facebook.com/llama_output_feedback)
-* Reporting bugs and security concerns: [facebook.com/whitehat/info](http://facebook.com/whitehat/info)
-* Reporting violations of the Acceptable Use Policy or unlicensed uses of Llama: [LlamaUseReport@meta.com](mailto:LlamaUseReport@meta.com)
+Harassment and Hate Speech: Tauro LLM must not be used to generate or promote content that is harassing, abusive, threatening, or promotes hate speech based on race, ethnicity, religion, gender, or other protected characteristics.
 
+Copyright Infringement: Users must not use Tauro LLM to generate or distribute copyrighted material without proper authorization or licensing.
+
+Impersonation: Users must not use Tauro LLM to impersonate individuals, organizations, or entities in a deceptive or misleading manner.
+
+## Enforcement
+
+Monitoring: We may monitor the use of Tauro LLM to ensure compliance with this Policy.
+
+Violation Reporting: Users are encouraged to report any violations of this Policy to [contact email].
+
+Actions: Violation of this Policy may result in suspension or termination of access to Tauro LLM, legal action, and other appropriate measures.
+
+## Changes to Policy
+
+This Policy may be updated or modified from time to time. Users will be notified of any significant changes to this Policy.
+
+Contact Information
+
+For questions, concerns, or reports regarding this Policy, please contact
