@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\Pablo\Documents\Tauro 4 Huggingface\Tauro-Type GEN\Tauro.jpg" width="400"/>
+  <img src="[C:\Users\Pablo\Documents\Tauro 4 Huggingface\Tauro-Type GEN\Tauro.jpg](https://github.com/ethersito123/Tauro-TypeGEN-v1/blob/main/Tauro.jpg)" width="400"/>
 </p>
 
 <p align="center">
